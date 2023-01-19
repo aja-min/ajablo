@@ -1,7 +1,7 @@
 baseURL = "https://aja-min.github.io/ajablo/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "aja blog"
+title = "Aja Blog"
 paginate = 10
 theme = "hulga"
 
@@ -12,7 +12,7 @@ theme = "hulga"
   description = "aja-min's blog"
 
   # change bulma's primary color
-  primaryColor = "#1793d0"
+  primaryColor = "#67A7CC"
 
   # subtitle on homepage
   subtitle = "engineering and memos"
