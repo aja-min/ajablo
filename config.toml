@@ -59,6 +59,9 @@ theme = "hulga"
   # not for route githubpages
   canonifyurls = true
 
+  # url
+  relativeURLs = true
+
 # to enable different hightlight themes in light/dark mode 
 [markup]
   [markup.highlight]
