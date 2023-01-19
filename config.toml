@@ -1,21 +1,21 @@
 baseURL = "https://aja-min.github.io/ajablo/"
-languageCode = "zh-cn"
-DefaultContentLanguage = "zh-cn"
-title = "My New Hugo Site"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "aja blog"
 paginate = 10
 theme = "hulga"
 
 [params]
   # show in HTML meta tag
-  author = "xxx"
-  keywords = "HTML, hugo, CSS"
-  description = "xxx's blog, xxx xx xxxx"
+  author = "aja-min"
+  keywords = "Web"
+  description = "aja-min's blog"
 
   # change bulma's primary color
   primaryColor = "#1793d0"
 
   # subtitle on homepage
-  subtitle = "This is aaaa subtitle"
+  subtitle = "engineering and memos"
 
   # copyright text on footer
   copyright = "Copyright © 2020 wlh. All rights reserved."
@@ -30,7 +30,7 @@ theme = "hulga"
   showSummary = true
 
   # set paginate on taxonomy term page (tags or categories), default 10
-  termPaginate = 3
+  termPaginate = 10
 
   # enable toc on every post page, default false
   toc = true
