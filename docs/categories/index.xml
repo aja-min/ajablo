@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aja Blog</title>
-    <link>https://aja-min.github.io/ajablo/categories/</link>
+    <link>https://ajablog.net/categories/</link>
     <description>Recent content in Categories on Aja Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://aja-min.github.io/ajablo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ajablog.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

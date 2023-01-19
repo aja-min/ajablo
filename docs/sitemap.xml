@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aja-min.github.io/ajablo/</loc>
+    <loc>https://ajablog.net/</loc>
     <lastmod>2023-01-17T22:23:26+09:00</lastmod>
   </url><url>
-    <loc>https://aja-min.github.io/ajablo/post/</loc>
+    <loc>https://ajablog.net/post/</loc>
     <lastmod>2023-01-17T22:23:26+09:00</lastmod>
   </url><url>
-    <loc>https://aja-min.github.io/ajablo/post/test/</loc>
+    <loc>https://ajablog.net/post/test/</loc>
     <lastmod>2023-01-17T22:23:26+09:00</lastmod>
   </url><url>
-    <loc>https://aja-min.github.io/ajablo/categories/</loc>
+    <loc>https://ajablog.net/categories/</loc>
   </url><url>
-    <loc>https://aja-min.github.io/ajablo/tags/</loc>
+    <loc>https://ajablog.net/tags/</loc>
   </url>
 </urlset>
