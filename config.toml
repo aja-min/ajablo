@@ -15,7 +15,7 @@ theme = "hulga"
   primaryColor = "#1793d0"
 
   # subtitle on homepage
-  subtitle = "This is a subtitle"
+  subtitle = "This is aaaa subtitle"
 
   # copyright text on footer
   copyright = "Copyright © 2020 wlh. All rights reserved."
@@ -52,6 +52,12 @@ theme = "hulga"
 
   # disable jsdelivr cdn, default false
   noCDN = false
+
+  # for github pages hosting
+  publishDir = "docs"
+
+  # not for route githubpages
+  canonifyurls = true
 
 # to enable different hightlight themes in light/dark mode 
 [markup]
