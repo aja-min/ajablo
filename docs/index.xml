@@ -6,14 +6,20 @@
     <description>Recent content on Aja Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 22:23:26 +0900</lastBuildDate><atom:link href="https://ajablog.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 14:35:07 +0900</lastBuildDate><atom:link href="https://ajablog.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://ajablog.net/post/test/</link>
-      <pubDate>Tue, 17 Jan 2023 22:23:26 +0900</pubDate>
+      <title>Test1</title>
+      <link>https://ajablog.net/post/test1/</link>
+      <pubDate>Fri, 20 Jan 2023 14:35:07 +0900</pubDate>
       
-      <guid>https://ajablog.net/post/test/</guid>
-      <description></description>
+      <guid>https://ajablog.net/post/test1/</guid>
+      <description>本文 あああああ
+h2です 引用句 引用句
+引用句
+引用句in引用句 ああああ
+取り消し
+リンク
+System.out.println(&amp;#34;Javaのコードブロック&amp;#34;); </description>
     </item>
     
   </channel>
