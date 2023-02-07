@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aja Blog</title>
-    <link>https://ajablog.net/</link>
-    <description>Recent content on Aja Blog</description>
+    <title>読書 on Aja Blog</title>
+    <link>https://ajablog.net/categories/%E8%AA%AD%E6%9B%B8/</link>
+    <description>Recent content in 読書 on Aja Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Feb 2023 08:59:53 +0900</lastBuildDate><atom:link href="https://ajablog.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 08:59:53 +0900</lastBuildDate><atom:link href="https://ajablog.net/categories/%E8%AA%AD%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ハッカーと画家を読みました</title>
       <link>https://ajablog.net/post/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%81%A8%E7%94%BB%E5%AE%B6/</link>
